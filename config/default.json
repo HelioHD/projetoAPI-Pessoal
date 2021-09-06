@@ -1,9 +1,9 @@
 {
     "mysql" : {
-        "banco-de-dados" : "heroku_53472f384441f4d",
-        "usuario":"b03960ebd9d535",
-        "senha": "79e5801f",
-        "host": "us-cdbr-east-04.cleardb.com",
+        "banco-de-dados" : "SEU-BANCO",
+        "usuario":"SEU-USUARIO",
+        "senha": "SUA-SENHA",
+        "host": "SUA-HOST",
         "porta": "3306"
     },
     "api": {
